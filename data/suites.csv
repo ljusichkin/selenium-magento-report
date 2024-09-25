@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Verifies that changing the password successfully shows the correct success message.","5517","Test Change Password Successfully","","Wed Sep 25 22:54:54 GST 2024","passed","Wed Sep 25 22:54:59 GST 2024","","Password Change Tests","",""
+"Verifies that a valid login redirects to the account page.","5420","Test Valid Login","","Wed Sep 25 22:54:35 GST 2024","passed","Wed Sep 25 22:54:40 GST 2024","","Login Tests","",""
+"Verifies that changing the password with a mismatched confirmation shows the correct error message.","6223","Test Change Password with Mismatched Confirmation","","Wed Sep 25 22:54:47 GST 2024","passed","Wed Sep 25 22:54:54 GST 2024","","Password Change Tests","",""
+"Verifies that changing the password with an incorrect current password shows the correct error message.","7138","Test Change Password with Incorrect Current Password","","Wed Sep 25 22:54:40 GST 2024","passed","Wed Sep 25 22:54:47 GST 2024","","Password Change Tests","",""
+"Verifies that an invalid login attempt shows the correct error message.","6915","Test Invalid Login","","Wed Sep 25 22:54:28 GST 2024","passed","Wed Sep 25 22:54:35 GST 2024","","Login Tests","",""
